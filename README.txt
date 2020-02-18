@@ -1,0 +1,1 @@
+Just download the "qt-c.zip" and unzip it, then copy the two folder "cheader", "csource" to the qt installation path, such as "installationPath\Tools\QtCreator\share\qtcreator\templates\wizards\files", then restart the qt creator.
